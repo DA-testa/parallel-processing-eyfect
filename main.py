@@ -1,3 +1,5 @@
+#Vasīlijs Dvils-Dmitrijevs 221RDB381
+
 def parallel_processing(n, m, data):
     output = []
     next_available = {i: 0 for i in range(n)}
